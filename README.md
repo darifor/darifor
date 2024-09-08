@@ -14,11 +14,6 @@ My greatest ambition is to continue developing as a full-stack programmer, facin
 ) [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
 ![Java](https://img.shields.io/badge/java-brightgreen?style=for-the-badge&logo=oracle&labelColor=black)
 
-
-
-
-
-
 - Web Development: HTML, CSS, JavaScript
 - Backend Technologies: Python, Node.js
 - Front-End Frameworks: React, Vue.js
