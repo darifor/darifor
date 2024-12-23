@@ -11,10 +11,11 @@ My greatest ambition is to continue developing as a full-stack programmer, facin
 ## Technologies Used 🛠️
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=e800ff)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
-[![Java](https://img.shields.io/badge/java-brightgreen?style=for-the-badge&logo=oracle&labelColor=black)]()
+[![Java](https://img.shields.io/badge/java-brightgreen?style=for-the-badge&logo=oracle&labelColor=black)]() [![PHP](https://img.shields.io/badge/PHP-red?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&labelColor=black)]()
+
 
 - Web Development: HTML, CSS, JavaScript
-- Backend Technologies: Python, Node.js
+- Backend Technologies: Python, Node.js, PHP
 - Front-End Frameworks: React, Vue.js
 
 <br>
